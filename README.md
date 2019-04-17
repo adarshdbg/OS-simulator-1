@@ -1,7 +1,7 @@
 # OS-Simulator
 
 - [x] Banker's Algorithm - Avdhesh
-- [x] Disk Scheduling - Aashay
+- [x] Disk Scheduling - Aashay and Abheek
 - [x] Files - Chetan
 - [x] Semaphores - Aditi and Iwrin
 - [x] Memory Management - Avdhesh and Adarsh
